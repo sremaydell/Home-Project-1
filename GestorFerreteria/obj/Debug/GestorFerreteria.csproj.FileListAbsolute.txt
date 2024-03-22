@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\Contenedor\Pryectos Escritorio\GestorFerreteria\GestorFerreteria\obj\Debug\GestorFerreteria.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Contenedor\Pryectos Escritorio\GestorFerreteria\GestorFerreteria\obj\Debug\GestorFerreteria.Form1.resources
+C:\Users\Acer\Desktop\Contenedor\Pryectos Escritorio\GestorFerreteria\GestorFerreteria\obj\Debug\GestorFerreteria.Properties.Resources.resources
+C:\Users\Acer\Desktop\Contenedor\Pryectos Escritorio\GestorFerreteria\GestorFerreteria\obj\Debug\GestorFerreteria.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Contenedor\Pryectos Escritorio\GestorFerreteria\GestorFerreteria\obj\Debug\GestorFerreteria.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Contenedor\Pryectos Escritorio\GestorFerreteria\GestorFerreteria\bin\Debug\GestorFerreteria.exe.config
+C:\Users\Acer\Desktop\Contenedor\Pryectos Escritorio\GestorFerreteria\GestorFerreteria\bin\Debug\GestorFerreteria.exe
+C:\Users\Acer\Desktop\Contenedor\Pryectos Escritorio\GestorFerreteria\GestorFerreteria\bin\Debug\GestorFerreteria.pdb
+C:\Users\Acer\Desktop\Contenedor\Pryectos Escritorio\GestorFerreteria\GestorFerreteria\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\Acer\Desktop\Contenedor\Pryectos Escritorio\GestorFerreteria\GestorFerreteria\bin\Debug\Guna.UI2.dll
+C:\Users\Acer\Desktop\Contenedor\Pryectos Escritorio\GestorFerreteria\GestorFerreteria\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\Acer\Desktop\Contenedor\Pryectos Escritorio\GestorFerreteria\GestorFerreteria\obj\Debug\GestorFerreteria.csproj.CopyComplete
+C:\Users\Acer\Desktop\Contenedor\Pryectos Escritorio\GestorFerreteria\GestorFerreteria\obj\Debug\GestorFerreteria.exe
+C:\Users\Acer\Desktop\Contenedor\Pryectos Escritorio\GestorFerreteria\GestorFerreteria\obj\Debug\GestorFerreteria.pdb
